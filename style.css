@@ -1,0 +1,13 @@
+ body {background-image: url("back.jpg")}
+ .container-fluid {max-width: 3000px; background-image:url("back.jpg") ;}
+.title {text-align: center; font-size: 70px; font-weight: bold; color: #edca2f; margin-bottom: 30px;}
+ td {padding: 15px; border: 2px solid; background-color: black; text-align: center; border-color: #edca2f ;}
+ table { width: 100%; border-collapse: separate; height: 90%;  border-spacing: 5px;  }
+th { background-color: black; text-align: center;}
+ img { height: 150px; border-radius: 15px;}
+.definition {background-color: black; color: #edca2f; text-align: left; font-size: 15px;}
+.name {color: #edca2f;}
+.php {color: #edca2f; text-align: center; font-size: 50px;}
+
+ 
+
